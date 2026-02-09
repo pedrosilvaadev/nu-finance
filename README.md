@@ -64,7 +64,7 @@ Before starting, you need to have [Git](https://git-scm.com) and [Node](https://
 
 ```bash
 # Clone this project
-$ git clone https://github.com/Dev-Pedrosv/trips-app.git
+$ git clone https://github.com/pedrosilvaadev/nu-finance.git
 
 # access
 $ cd trips-app
@@ -86,7 +86,7 @@ Thanks to the following people who contributed to this project:
   <tr>
     <td align="center">
       <a href="#">
-        <img src="https://avatars.githubusercontent.com/u/82785683?v=4" width="160px;" alt="Photo by Pedro Silva on GitHub"/><br>
+        <img src="https://avatars.githubusercontent.com/u/178588470?v=4" width="160px;" alt="Photo by Pedro Silva on GitHub"/><br>
         <sub>
           <b>Pedro Silva</b>
         </sub>
