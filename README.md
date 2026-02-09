@@ -67,7 +67,7 @@ Before starting, you need to have [Git](https://git-scm.com) and [Node](https://
 $ git clone https://github.com/pedrosilvaadev/nu-finance.git
 
 # access
-$ cd trips-app
+$ cd nu-finance
 
 # install dependencies
 $ yarn or npm
